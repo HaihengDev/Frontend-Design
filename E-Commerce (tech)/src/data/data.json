@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S26 Ultra",
+    "price": 999,
+    "discount": 0,
+    "imgUrl": "https://arystorephone.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-Black.jpg?v=1773834614"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S26",
+    "price": 799,
+    "discount": 15,
+    "imgUrl": "https://image-us.samsung.com/us/smartphones/galaxy-s26/images/galaxy-s26-features-bottom-banner-mktpd-mo.jpg?imbypass=true"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S26 Plus",
+    "price": 899,
+    "discount": 18,
+    "imgUrl": "https://images.vodafone.co.uk/gbnnsauqav4t/6OUHlGfT019YaL91lvmFe0/1867f83225f5b1dee6cb8b54a86355ee/Samsung_Galaxy_S26_cobalt_violet-full-product-front-600.png"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Z Fold 6",
+    "price": 1499,
+    "discount": 10,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/assets/us/smartphones/galaxy-z-fold6/07082025/galaxy-z-fold6-ft02-kv_MO.jpg?$720_N_JPG$"
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Z Flip 6",
+    "price": 999,
+    "discount": 12,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-z-flip6/images/galaxy-z-flip6-features-kv.jpg?imbypass=true"
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy A75",
+    "price": 599,
+    "discount": 25,
+    "imgUrl": "https://cdn.tgdd.vn/Products/Images/42/271154/samsung-galaxy-a75-600x600.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy A55",
+    "price": 449,
+    "discount": 20,
+    "imgUrl": "https://arystorephone.com/wp-content/uploads/2024/03/galaxy-a55-5g-awesomenavy.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy A35",
+    "price": 349,
+    "discount": 15,
+    "imgUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2024/04/17171840/samsung-galaxy-a35-5g-awesomelilac-feature.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Tab S10 Ultra",
+    "price": 1199,
+    "discount": 10,
+    "imgUrl": "https://img.global.news.samsung.com/global/wp-content/uploads/2024/09/Samsung-Mobile-Galaxy-Tab-S10-Series-Samsungs-First-Galaxy-AI-Tablet_main1_F.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Samsung Galaxy Tab S10 Plus",
+    "price": 799,
+    "discount": 15,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/assets/in/tablets/galaxy-tab-s10/buy/S10-Plus_Color-Selection_Moonstone-Gray_PC_1600x864.png"
+  },
+  {
+    "id": 11,
+    "name": "Samsung Galaxy Book 4 Pro",
+    "price": 1299,
+    "discount": 12,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/165022711/in-feature-galaxy-book-539988913?$FB_TYPE_A_MO_JPG$"
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy Book 4",
+    "price": 999,
+    "discount": 10,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/p6pim/ca/feature/164999179/ca-feature-dolby-atmos--ear-resistible-sound-quality-539841936?$FB_TYPE_A_MO_JPG$"
+  },
+  {
+    "id": 13,
+    "name": "Samsung Smart TV 65\" QLED",
+    "price": 1399,
+    "discount": 18,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/assets/in/galaxy-book/galaxy-book4-series/Galaxy-Book4_Pro_720x540_.png?$720_N_PNG$"
+  },
+  {
+    "id": 14,
+    "name": "Samsung Smart TV 55\" Crystal UHD",
+    "price": 799,
+    "discount": 20,
+    "imgUrl": "https://images.samsung.com/is/image/samsung/p6pim/id/qa55qef1akxxd/gallery/id-qled-tv-qa55qef1akxxd-front-titanium-gray-546604666?$Q90_1248_936_F_PNG$"
+  },
+  {
+    "id": 15,
+    "name": "Samsung Soundbar Q990C",
+    "price": 999,
+    "discount": 15,
+    "imgUrl": "https://m.media-amazon.com/images/I/71ADaLd7rNL.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Samsung Galaxy Buds 3 Pro",
+    "price": 249,
+    "discount": 10,
+    "imgUrl": "https://m.media-amazon.com/images/I/61zW8yc4hTL.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Samsung Galaxy Watch 7",
+    "price": 399,
+    "discount": 12,
+    "imgUrl": "https://angkormeas.com/wp-content/uploads/2024/12/Galaxy-Watch7_Dec24-1.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Samsung Galaxy Watch 7 Pro",
+    "price": 499,
+    "discount": 10,
+    "imgUrl": "https://www.lifewire.com/thmb/DxDSB8RU6R7ZzxR2yNUF_hft-Hs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/samsung-galaxy-watch-7-ultra-eccbcbe5aaf94a8eae58611c4f57eeda.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Samsung Wireless Charger Duo",
+    "price": 99,
+    "discount": 25,
+    "imgUrl": "https://arystorephone.com/wp-content/uploads/2021/09/Wireless-Charger-Duo-Black.jpg?v=1742280271"
+  },
+  {
+    "id": 20,
+    "name": "Samsung Portable SSD T9 1TB",
+    "price": 199,
+    "discount": 0,
+    "imgUrl": "https://www.laorlaorcamerashop.com/Content/Upload/ItemImage/e84ccb5f-4b8b-4a73-90a1-1666d55f2e68.jpg"
+  }
+]
