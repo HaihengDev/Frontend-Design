@@ -11,7 +11,7 @@ export default function Card({ name, imgUrl, price, discount }: Props) {
   const newPrice = price - price * (discount / 100);
 
   return (
-    <figure>
+    <figure className="group">
       <img src={imageConvert(imgUrl)} alt={name} />
       <figcaption>{name}</figcaption>
 
@@ -20,15 +20,15 @@ export default function Card({ name, imgUrl, price, discount }: Props) {
       <div className="price-wrapper">
         {discount > 0 ? (
           <div>
-            <p className="old-price">{price}</p>
-            <p className="new-price">{newPrice}</p>
+            <p className="old-price">${price}</p>
+            <p className="new-price">${newPrice.toFixed(2)}</p>
           </div>
         ) : (
-          <p className="new-price">${newPrice}</p>
+          <p className="new-price">${newPrice.toFixed(2)}</p>
         )}
       </div>
 
-      <button>Add to Cart</button>
+      <button className="card-button">Add to Cart</button>
     </figure>
   );
 }
