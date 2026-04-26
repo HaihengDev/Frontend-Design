@@ -4,11 +4,11 @@ import Hero from './components/Hero';
 
 const App = () => {
   return (
-    <>
+    <div className="flex flex-col gap-4">
       <Header />
       <Hero />
       <CardLayout />
-    </>
+    </div>
   );
 };
 

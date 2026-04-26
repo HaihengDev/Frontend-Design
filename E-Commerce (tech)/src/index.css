@@ -51,7 +51,7 @@
   }
 
   figure {
-    @apply relative bg-white rounded-xl shadow-md overflow-hidden w-full max-w-sm transition hover:shadow-xl;
+    @apply relative bg-gray-50 rounded-xl shadow-md overflow-hidden w-full max-w-sm transition hover:shadow-xl;
   }
 
   figure img {
@@ -87,6 +87,6 @@
   }
 
   #card-layout {
-    @apply grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-6 py-10;
+    @apply grid gap-6 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-6 py-10 scroll-mt-6;
   }
 }
