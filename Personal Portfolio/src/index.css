@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+:root {
+  --text-primary: #111;
+  --bg-primary: #f9f9fb;
+  --object-primary: #1e90ff;
+  --object-hover: #117be5;
+
+  --card-primary: #fff;
+  --shadow-normal: 2px 2px 4px rgba(0, 0, 0, 0.05);
+  --shadow-hover: 2px 2px 4px rgba(0, 0, 0, 0.2);
+
+  --transform-card-hover: translateY(-5px);
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.12rem;
+}

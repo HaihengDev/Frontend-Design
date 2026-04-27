@@ -1,0 +1,34 @@
+nav {
+  display: flex;
+  gap: 1.4rem;
+  align-items: center;
+}
+
+nav a {
+  position: relative;
+  font-size: 1.1rem;
+  color: var(--text-primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  left: 50%;
+  bottom: -2px;
+  background: var(--object-primary);
+  transform: translate(-50%, -50%);
+  transition: all ease 0.3s;
+}
+
+nav a:hover::after {
+  width: 100%;
+}
+
+nav a:hover {
+  color: var(--object-primary);
+  transition: 0.3s;
+}
